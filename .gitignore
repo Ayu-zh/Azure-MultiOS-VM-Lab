@@ -1,0 +1,7 @@
+# Azure credentials and SSH keys
+*.pub
+*.key
+~/.ssh/azurekey
+# Temporary files
+*.log
+*.bak
