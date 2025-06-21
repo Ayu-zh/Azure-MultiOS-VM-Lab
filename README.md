@@ -1,2 +1,5 @@
-# Azure-MultiOS-VM-Lab
-A lab environment on Azure with automated deployment of both Windows and Linux virtual machines using scripts.
+# Azure Multi-OS VM Lab Environment
+A cloud-based lab with Linux and Windows VMs on Azure, showcasing VM provisioning, scripting, networking, and cost optimization for Penthara Mohali.
+
+## Status
+Work in progress. Full setup and documentation coming soon.
