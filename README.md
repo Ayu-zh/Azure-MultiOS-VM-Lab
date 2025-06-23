@@ -52,7 +52,7 @@ This project deploys a cloud-based lab on Azure with one Linux (Ubuntu 22.04) an
 See `docs/cost-management.md` for staying within Azure for Students limits.
 
 ## Contact
-[LinkedIn](https://linkedin.com/in/<your-profile>) | <your-email>
+[LinkedIn](https://www.linkedin.com/in/ayush-priyadarshi-894836167/) | <your-email>
 
 ---
 Built with Azure, PowerShell, and Bash.
