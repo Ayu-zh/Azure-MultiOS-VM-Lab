@@ -35,7 +35,7 @@ This project deploys a cloud-based lab on Azure with one Linux (Ubuntu 22.04) an
 4. **Cleanup**:
    - Run: `Remove-AzResourceGroup -Name MultiOSLabRG -Force`
 
-## Screenshots
+## Screenshots (not updated)
 - [Linux VM SSH](screenshots/linux-vm-ssh.png)
 - [Windows VM RDP](screenshots/windows-vm-rdp.png)
 - [Azure Monitor](screenshots/azure-monitor.png)
@@ -52,7 +52,7 @@ This project deploys a cloud-based lab on Azure with one Linux (Ubuntu 22.04) an
 See `docs/cost-management.md` for staying within Azure for Students limits.
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/ayush-priyadarshi-894836167/) | <your-email>
+[LinkedIn](https://www.linkedin.com/in/ayush-priyadarshi-894836167/) | 
 
 ---
 Built with Azure, PowerShell, and Bash.
